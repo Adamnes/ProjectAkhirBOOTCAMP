@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": "..\\..\\..\\Desktop\\Bootcamp-bawana"
+		},
+		{
+			"path": "..\\..\\..\\Documents\\BCC-PENJUALAN"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\New folder (5)\\bawana-university"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "AdminLTE-3.2.0"
+    }
+}
